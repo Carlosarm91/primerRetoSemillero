@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Agregar libro a coleccion" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-11-24T03:52:33" hostname="SQABOG-SQA4337" time="18.984">
+  <properties/>
+  <testcase name="Agregar libro a coleccion de forma exitosa" classname="Agregar libro a coleccion" time="18.984"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[Starting ChromeDriver 107.0.5304.62 (1eec40d3a5764881c92085aaee66d25075c159aa-refs/branch-heads/5304@{#942}) on port 19106
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+]]></system-err>
+</testsuite>
